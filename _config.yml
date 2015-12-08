@@ -1,7 +1,7 @@
 name: petecuba
 favicon: null
-layout_spectrum: 0.07129302225075662
-typography_spectrum: 0.7973637685645372
+layout_spectrum: 0.70937
+typography_spectrum: 0.75962
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.23911761841736734
-  lightness: 0.39210114697925746
-  saturation: 0.7243946283124387
-  rhythmicContrast: 0.7140664791222662
+    - '#e7e9f8'
+    - '#120d0a'
+    - '#cfccbd'
+    - '#302f2d'
+    - '#757b6f'
+  brandStrength: 0.8125
+  lightness: 0.75
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
